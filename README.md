@@ -11,7 +11,7 @@
   <li> dotnet build -c Release</li>
   <li> git clone https://github.com/anuraj/MinimalApi</li>
   <li> dotnet run --project ReturnDependencyAnalyzer/ReturnDependencyAnalyzer.csproj /root/Indigo-AST/MinimalApi</li>
-  <li> cp /root/Indigo-AST/MinimalApi/metadata.json .using Microsoft.CodeAnalysis;</li>
+  <li> cp /root/Indigo-AST/MinimalApi/metadata.json .
 </ol>
 
 
