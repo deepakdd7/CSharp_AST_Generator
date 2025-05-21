@@ -1,5 +1,6 @@
 # CSharp_AST_Generator
 <ol>
+  <li> cd /root</li>
   <li> mkdir Indigo-AST</li>
   <li> cd Indigo-AST/</li>
   <li> dotnet new console -n ReturnDependencyAnalyzer</li>
